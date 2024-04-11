@@ -38,6 +38,6 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SetiaBudii&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SetiaBudii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Budi's github stats](https://github-readme-stats.vercel.app/api?username=SetiaBudii&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SetiaBudii&layout=compact)](https://github.com/SetiaBudii)
 
